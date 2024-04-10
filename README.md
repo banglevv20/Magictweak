@@ -13,7 +13,10 @@ Magic Tweaks Menggunakan Kode `GAME_OVERLAY`, `DEVICES_CONFIG`, `CMD POWER` so t
 `devices_config` will call the Android database and change the values ​​in it.
 - examples that you can use `device_config put game_overlay <packagegame> mode=2,angle=<value>,downscaleFactor=<calue>,fps=<value>:mode=3,angle=<value>,downscaleFactor=<value>,fps=value`
 - `cmd game mode performance [standart/batterysaver/performance`
-- `cmd package compile <value> <mode> <value> <packagename`
+- `cmd package compile <value> <mode> <value> <packagename>`
+
+  ![Screenshot 2024-04-10 18-18-11](https://github.com/banglevv20/Magictweak/assets/100755943/3cb13171-e656-4f38-9802-f251c2d00cad)
+
 
 # **FEATURES**
 features in Magic Tweak are very complete, especially for game optimization. You can change graphic to be lower or even higher. You also enable high frame rate mode in the game dashboard settings. For other features you can see below:
