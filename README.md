@@ -1,10 +1,15 @@
 ![20240410_165739](https://github.com/banglevv20/Magictweak/assets/100755943/3405459e-30d6-492f-b08f-9e58a1774796)
-> [!NOTE]
+## **YOUTUBE CHANNEL**
 > youtube channel [bang levv](https://www.youtube.com/c/BANGLEvV).
 
-> [!IMPORTANT]
+## **MAGIC VIP HERE**
 > You can get magic vip here [magic vip](https://sociabuzz.com/banglevv/c/57049/magic-vip).
 
+## **DOWNLOAD MAGIC TWEAK**
+- [MAGIC TWEAK FREE](https://shrinkme.site/AuNTd).
+- [TUTORIAL](https://www.youtube.com/watch?v=Q91DE9Z5EtE).
+
+  
 # **MAGIC TWEAK**
 magic tweak is an all in one optimizer for root and non root android devices. By using Magic Tweak, you can change the kernel compilation, graphic type and even activate game mode on your Android device without having to root it.
 
